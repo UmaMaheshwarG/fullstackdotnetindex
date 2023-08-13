@@ -1,0 +1,139 @@
+
+https://www.c-sharpcorner.com/
+https://www.codeproject.com/
+https://github.com/sudheerj/angular-interview-questions#table-of-contents
+
+
+general/ misc :
+solid
+microservice vs others(monolithic)
+design patterns (gang of 4 - 3 categories)
+mvc vs webforms 
+authentication and authorization
+web service , wcf vs webapi , 
+soap vs rest 
+cross site scripting , 
+cors , 
+sql inject attack , 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+c#
+oops (inheritance , polyymorphism - overloading , overriding ,  hiding , encapsulation , abstraction )
+abstract vs interface
+heap , stack , structure , value and ref types , 
+static 
+singleton pattern
+unboxing , boxing , 
+typecasting -  cast , convert , parse , tryparse
+readonly vs cont , 
+ilist ,  ienumerator , ienumerable (return type of linq) , iqueryable (deffered execution)
+executereader , executenonquery , executescalar
+value , ref , out (ref vs out)
+multiple inhertance - diamond problem
+delegate 
+reflection
+multithreading vs async (non blocking IO) vs synchronous
+enums 
+access modifiers 
+attributes
+memory handling : generations ,  unmanaged memore handling by "using" and idisposable with the pattern
+string immutibility ,
+static vs singleton
+var vs dynamic vs types
+as and is keywords . 
+linq , 
+dependency injection and  IOC
+collection - queue , stack , list  , array , array list , 
+exceptional handling - throw vs throw ex
+async , await ,  task , thread and process
+optional params , 
+string vs stringbuilder 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+sql
+exceptional handling , 
+sp vs func
+transaction management - acid properties 
+normalization rules , 
+triggers - before (instead of) and after - purpose
+delete , truncate , joins 
+tvp , cte  , cursor , temp table (global and local)
+joins , cross join , union and union all
+having and where 
+nth highest salary , 
+remove duplicate rows 
+views 
+clustered and non clustered and where they are saved
+query optimisation 
+row_no , denserank , rank , 
+primary and foreign key , composite key , unique key  , check constraint , 
+merge statement , 
+pivot , 
+ddl , dml , dql ,  tcl , etc
+magic table 
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+angular
+decorator , 
+metadata , 
+module , 
+services , 
+pipes , 
+routing (forroot and forchild)
+routeguard , authguard , 
+template based form and reactive forms  
+ngrx - things 
+observable and promise , behavior subject , subject , pipe and operator (map , filter , mergemap , *map), async pipe
+packagejson , angularjson , nodemodule , basic commands of ng, 
+how does an angular application bootstrap
+dependency injection 
+how did you test - jasmine and karma - testbed 
+drectives - structural , component , attrubute 
+data binding  - ngmodel 
+input and output emmiters 
+viewchild and viewchildren , 
+lifecycles hooks
+optional params in ts
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+frameworks and dot net funda(web api , mvc , entity f/w ,  ) :
+rest - 6 characteristics , 
+return types of webapi , 
+http verbs and usage and codes
+routing , 
+middleware - map , use and run 
+configure vs configure services 
+transient , singleton and scoped , 
+mvc - statemanagement techniques - viewdata , viewbag ,  tempdata , hiddenfields , cookies 
+mvc - areas , 
+metapackages , 
+request delegate , 
+databasefirst and codefirst and difference and usage 
+dapper 
+message brokers  - sevice bus , rambbit mq ,wcf etc 
+application lifecycle 
+request lifecycle 
+t4 template
+
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+cloud :
+cicd - yaml 
+dockers and kubernetes  , 
+azure functions 
+
+
