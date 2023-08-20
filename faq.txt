@@ -8,6 +8,7 @@ https://github.com/sudheerj/angular-interview-questions#table-of-contents
 general/ misc :
 solid
 microservice vs others(monolithic)
+ddd and soa
 design patterns (gang of 4 - 3 categories)
 mvc vs webforms 
 authentication and authorization
@@ -15,6 +16,7 @@ web service , wcf vs webapi ,
 soap vs rest 
 cross site scripting , 
 cors , 
+criss site scripting
 sql inject attack , 
 
 
