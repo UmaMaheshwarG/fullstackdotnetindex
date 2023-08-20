@@ -6,6 +6,13 @@ https://github.com/sudheerj/angular-interview-questions#table-of-contents
 
 
 general/ misc :
+
+brief about yourself
+explain about your last major project
+a difficult scenario and how you have faced it.
+
+
+
 solid
 microservice vs others(monolithic)
 ddd and soa
